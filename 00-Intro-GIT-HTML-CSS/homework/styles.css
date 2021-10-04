@@ -1,0 +1,27 @@
+
+    h1 {
+        color: aqua;
+    }
+    img {
+        width: 400px;
+    }
+    #thirdDiv {
+        position: center;
+        height: 600px;
+        width: 500px;
+        padding: 50px;
+        border: 2px solid teal;
+        background: lavender;
+        display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+    }
+    #spanId {
+        font-size: 25px;
+        margin: 50px;
+    }
+
+
