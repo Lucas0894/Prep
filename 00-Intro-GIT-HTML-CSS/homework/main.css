@@ -1,0 +1,50 @@
+body {
+    background-color: seashell;
+}
+h1 {
+    text-align: center;
+    color: teal;
+}
+
+.secondiv {
+    text-align: center;
+    color: teal;;
+    }
+.img {
+    width: 600x;
+    height: 400px;
+    margin: 40px;
+    border: black 5px solid;
+    border-radius: 20px;
+}    
+.thirdiv {
+    text-align: center;
+    margin: 40px;
+}
+p {
+    text-align: left;
+    font-size: 20px;
+}
+.fourdiv {
+    text-align: center;
+    margin: 40px;
+}
+ul {
+    text-align: center;
+}
+.fivediv {
+    text-align: center;
+    margin: 40px;
+}
+.sixdiv {
+    text-align: center;
+    margin: 40px;
+}
+.sevendiv {
+    text-align: center;
+    margin: 40px;
+}
+.eightdiv {
+    text-align: center;
+    margin: 40px;
+}
