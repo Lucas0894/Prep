@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
     h1 {
         color: aqua;
@@ -19,3 +20,26 @@
     }
 
 
+=======
+
+    h1 {
+        color: aqua;
+    }
+    img {
+        width: 400px;
+    }
+    #thirdDiv {
+        position: center;
+        height: 600px;
+        width: 500px;
+        padding: 50px;
+        border: 2px solid teal;
+        background: lavender;
+    }
+    #spanId {
+        font-size: 25px;
+        margin: 50px;
+    }
+
+
+>>>>>>> c92e24ed600c8a439d178e584ee829997c2bbd08
