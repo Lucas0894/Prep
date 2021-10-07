@@ -18,6 +18,7 @@ h1 {
     border-radius: 20px;
 }    
 .thirdiv {
+    font-size:  20px;
     text-align: center;
     margin: 40px;
 }
@@ -28,23 +29,33 @@ p {
 .fourdiv {
     text-align: center;
     margin: 40px;
+    font-size: 20px;
 }
-ul {
-    text-align: center;
-}
+
 .fivediv {
     text-align: center;
     margin: 40px;
+    font-size: 20px;
 }
 .sixdiv {
     text-align: center;
     margin: 40px;
+    font-size: 20px;
 }
 .sevendiv {
     text-align: center;
     margin: 40px;
+    font-size: 20px;
 }
 .eightdiv {
-    text-align: center;
+    display: inline-block; 
+    text-align: center; 
     margin: 40px;
+    font-size: 20px;
+}
+.divm {
+     display: inline-block; 
+        text-align: left; 
+    
+    
 }

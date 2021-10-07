@@ -1,45 +1,26 @@
-<<<<<<< HEAD
-
+body {
+    background-image: url("https://image.freepik.com/foto-gratis/lasana-clasica-salsa-bolonesa_2829-11251.jpg");
+    background-size: cover;
+    background-position: center center;
+}
     h1 {
-        color: aqua;
+        color: black;
+        text-align: center;
     }
     img {
         width: 400px;
     }
     #thirdDiv {
-        position: center;
         height: 600px;
         width: 500px;
         padding: 50px;
-        border: 2px solid teal;
-        background: lavender;
+        border: 2px solid black;
+        background-color: rgba(47, 47, 80, 0.5);
+        
     }
     #spanId {
         font-size: 25px;
         margin: 50px;
     }
 
-
-=======
-
-    h1 {
-        color: aqua;
-    }
-    img {
-        width: 400px;
-    }
-    #thirdDiv {
-        position: center;
-        height: 600px;
-        width: 500px;
-        padding: 50px;
-        border: 2px solid teal;
-        background: lavender;
-    }
-    #spanId {
-        font-size: 25px;
-        margin: 50px;
-    }
-
-
->>>>>>> c92e24ed600c8a439d178e584ee829997c2bbd08
+    
